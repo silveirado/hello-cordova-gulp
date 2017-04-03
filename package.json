@@ -1,0 +1,63 @@
+{
+  "name": "hello-cordova-gulp",
+  "version": "0.0.1",
+  "description": "Cordova with Gulp Seed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Procempa/hello-cordova-gulp.git"
+  },
+  "keywords": [
+    "Cordova",
+    "Gulp",
+    "Seed"
+  ],
+  "author": "Procempa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Procempa/hello-cordova-gulp/issues"
+  },
+  "homepage": "https://github.com/Procempa/hello-cordova-gulp#readme",
+  "dependencies": {
+    "@angular/animations": "4.0.0",
+    "@angular/common": "4.0.0",
+    "@angular/compiler": "4.0.0",
+    "@angular/compiler-cli": "4.0.0",
+    "@angular/core": "4.0.0",
+    "@angular/forms": "4.0.0",
+    "@angular/http": "4.0.0",
+    "@angular/platform-browser": "4.0.0",
+    "@angular/platform-browser-dynamic": "4.0.0",
+    "@angular/platform-server": "4.0.0",
+    "@angular/router": "4.0.0",
+    "core-js": "^2.4.1",
+    "font-awesome": "^4.7.0",
+    "rxjs": "5.1.1",
+    "zone.js": "0.8.5"
+  },
+  "devDependencies": {
+    "@angular/compiler-cli": "^4.0.0",
+    "@angular/platform-server": "^4.0.0",
+    "extract-text-webpack-plugin": "^2.1.0",
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-clean-css": "^3.0.4",
+    "gulp-concat-css": "^2.3.0",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.5.0",
+    "gulp-typescript": "^3.1.6",
+    "gulp-uglify": "^2.1.2",
+    "json-loader": "^0.5.4",
+    "path": "^0.12.7",
+    "pump": "^1.0.2",
+    "through2": "^2.0.3",
+    "typescript": "^2.2.2",
+    "vinyl-named": "^1.1.0",
+    "webpack": "^2.3.2",
+    "webpack-stream": "^3.2.0"
+  }
+}
